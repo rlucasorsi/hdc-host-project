@@ -17,4 +17,4 @@ Este é um projeto desenvolvido com **HTML** e **CSS**, focado na criação de u
 ## 📖 Como visualizar  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/hdc-host-project.git
+   git clone https://github.com/rlucasorsi/hdc-host-project.git
