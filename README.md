@@ -3,7 +3,7 @@ Este é um projeto desenvolvido com **HTML** e **CSS**, focado na criação de u
 
 ## 🚀 Tecnologias utilizadas  
 - **HTML5**  
-- **CSS3** (com foco em responsividade usando **flexbox** e **grid**)  
+- **CSS3** (com foco em responsividade)  
 
 ## ✨ Funcionalidades  
 - Layout totalmente **responsivo** (desktop, tablet e mobile).  
